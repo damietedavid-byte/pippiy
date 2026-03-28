@@ -1,0 +1,5 @@
+{
+  "name": "Pay.Pal with Paga",
+  "description": "A PayPal-inspired digital wallet and payment interface integrated with Paga concepts.",
+  "requestFramePermissions": []
+}
